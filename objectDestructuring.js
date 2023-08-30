@@ -58,4 +58,3 @@ console.log(durationInMonths);   // Output: "2 months"
 // { c: 300, d: 400, e: 500 }
 
 
-
